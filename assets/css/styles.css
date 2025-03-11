@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+:root {
+    --primary: #A5158C;
+    --secondry: #F6DC43;
+    --success: #3D8D7A;
+    --danger: #E50046;
+    --dark: #410445;
+    --light: #FDF7F4;
+    --info: #FF2DF1;
+    --warning: #f7e47d;
+}
