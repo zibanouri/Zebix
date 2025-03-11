@@ -9,4 +9,20 @@
     --light: #FDF7F4;
     --info: #FF2DF1;
     --warning: #f7e47d;
+    --text: #181818;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: var(--text);
+}
+
+ul {
+    list-style: none;
 }
